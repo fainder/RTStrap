@@ -1,0 +1,25 @@
+/* CSS Document */
+
+/*
+border : 1px solid #000;
+*/
+
+body.transparent {
+	background: transparent !important;
+}
+
+.navbar {
+	z-index: 20;
+}
+
+.bx-wrapper {
+}
+
+.bx-viewport {
+}
+
+.bxslider {
+}
+
+.row-fluid.header {
+}
