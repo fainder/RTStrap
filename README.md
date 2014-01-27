@@ -1,4 +1,4 @@
 RTStrap
 =======
 
-Rakuten Theme by Flatstrap
+Rakuten Theme by Flat UI Interface Kit.
