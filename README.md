@@ -1,6 +1,6 @@
-# SAVAWAY Service git Management
+# RTStrap
 
-楽天GOLD用のテーマ。  
+楽天GOLD用のBootstrap3.0テーマ。  
 もうそろそろ楽天市場のテンプレートもオープンソースでいいと思う。
 
 ## Contents
